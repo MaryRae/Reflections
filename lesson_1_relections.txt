@@ -7,3 +7,15 @@ Why do you think some version control systems, like Git, allow saving multiple f
 Because it's a pain to track down when multiple inter-related files were sync-ed up!.
 
 I'd like to try using Git for my JMP files and for my Python scripts for Dave!
+
+How can you use the staging area to make sure you have one commit per logical change?  Only put files in the staging area related to your logical change, commit them, then move on to next logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches can help when I want to try a new algorithm design.  Easy to label changes without having to change filename to something really long.
+
+How do the diagrams help you visualize the branch structure?  Helps me understand how to navigate between branches, and also which commits could be LOST COMPLETELY w/o a branch name.
+
+What is the result of merging 2 branches together?
+You get the added code and don't get the deleted code.
+Why do we represent it in the way that we do?
+To make sense of the two former branches.

@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 
 When I'm collaborating with multiple people, or using multiple computers.  
 Also, with just about anything I'm willing to share, it's nice to have a backup.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Sometimes you don't want to see a collaborator's changes until you've finished making your own module.  
+Easier to merge after debugging is complete.
