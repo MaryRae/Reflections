@@ -6,3 +6,12 @@ Also, with just about anything I'm willing to share, it's nice to have a backup.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Sometimes you don't want to see a collaborator's changes until you've finished making your own module.  
 Easier to merge after debugging is complete.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork=copy of github repository.  Forks exist only on GitHub.
+Clone=repository copy on your local computer: can clone a branch on github or clone a local repository.
+Branch=Tracked deviation of source code.  That is, you can have branches to add feaures to work on these features independent of the main changes to the code.
+
+I'd Fork any GitHub repositories I'd want to use without changing the repository (or if I didn't have permission).
+I'd Clone any github repositories to which I might eventually want to contribute.
+I'd create a branch in my repository if I wanted to do something really different to the source code and didn't want to mess up my functioning copies, or impact other branches.
