@@ -22,4 +22,5 @@ You can see what others have most recently added anytimg buy running a git diff 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could upload shared files into Google drive.  It would be harder to track changes, and be sure everyone was on the latest version.
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you are making a significant change, you can work without interrupting general flow of work.  Benefits of making separate branch are that you won't interfere with others' code until merging.  Benefits of working on master are that merging is much less of a pain!
