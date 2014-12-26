@@ -15,3 +15,8 @@ Branch=Tracked deviation of source code.  That is, you can have branches to add 
 I'd Fork any GitHub repositories I'd want to use without changing the repository (or if I didn't have permission).
 I'd Clone any github repositories to which I might eventually want to contribute.
 I'd create a branch in my repository if I wanted to do something really different to the source code and didn't want to mess up my functioning copies, or impact other branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can see what others have most recently added anytimg buy running a git diff or looking at the git log for that branch.
+
+
